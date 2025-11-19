@@ -1,4 +1,14 @@
-## Hi there 👋
+## Cowabunga 👋👋‼️‼️
+
+I work in cyber security and spend this space building small things that solve real problems.
+
+What you will see here:
+- Bots that automate boring work like job applications and simple research  
+- Security and network tools from my home lab and personal projects  
+- Experiments with containers, local AI models, and automation around them  
+- Dashboards, scripts, and glue code that connect all of the above  
+
+Everything here is personal use only. It is a playground for ideas, not a product. If something looks useful to you, read the code, adapt it, and treat it as untrusted until you test it yourself.
 
 <!--
 **nerdinthenord/nerdinthenord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
