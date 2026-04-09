@@ -1,26 +1,12 @@
-## Cowabunga 👋👋‼️‼️
+## Cyber risk leadership, secure design, and practical engineering
 
-I work in cyber security and spend this space building small things that solve real problems.
+I work at the intersection of cybersecurity, technology risk, governance, data protection, and emerging technology. This GitHub reflects the kind of work I care about most: building practical tools that support clearer visibility, better control decisions, and stronger security outcomes.
 
-What you will see here:
-- Bots that automate boring work like job applications and simple research  
-- Security and network tools from my home lab and personal projects  
-- Experiments with containers, local AI models, and automation around them  
-- Dashboards, scripts, and glue code that connect all of the above  
+What you will find here:
 
-Everything here is personal use only. It is a playground for ideas, not a product. If something looks useful to you, read the code, adapt it, and treat it as untrusted until you test it yourself.
+* Projects focused on cyber risk, governance, and control effectiveness
+* Security tooling for testing, visibility, and lightweight operational use cases
+* Containerized experiments using local AI, automation, and orchestration
+* Prototypes that turn security ideas into usable systems
 
-<!--
-**nerdinthenord/nerdinthenord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a personal workspace for exploration and execution rather than product software. Everything here should be reviewed and tested before use.
